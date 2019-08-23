@@ -1,7 +1,8 @@
 import tinify
 import os
 
-tinify.key = 'qdlt2hYBDKsZWKRTNjKQv1VhYxs3r73x'
+# https://tinypng.com/dashboard/api key从这里获取，每月500次调用次数
+tinify.key = 'you key '
 
 fileArray = []
 
